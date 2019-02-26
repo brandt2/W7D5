@@ -11,7 +11,7 @@ export const login = user => {
 		method: 'POST',
 		url: '/api/session',
 		data: { user }
-	})
+	});
 };
 
 export const logout = () => (

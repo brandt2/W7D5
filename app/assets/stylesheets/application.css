@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+.sign-up {
+  padding: 5px;
+  background: #eeeeee;
+  margin-right: 5px;
+}
+
+.log-in {
+  padding: 5px;
+  background: #eeeeee;
+}
